@@ -1,0 +1,5 @@
+{
+  "name": "Emerald Coast 2D - Speed Run",
+  "description": "A high-speed 2D platformer inspired by Sonic Adventure's Emerald Coast. Features 3 distinct sections: Beach, Cave, and Bridge, with physics-based movement, loops, and collectibles.",
+  "requestFramePermissions": []
+}
